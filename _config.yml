@@ -1,6 +1,6 @@
 # Site settings
 title: HyeongonKim Blog
-SEOTitle: Android Developer | HyeongonKim Blog
+SEOTitle: Android Dev | HyeongonKim Blog
 header-img: img/home-bg.jpg
 email: hyeongon.simon@gmail.com
 description: "Android Developer @Bitbyte Corps"
@@ -75,7 +75,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Android Developer @Bitbyte Corps"
+sidebar-about-description: "Android Developer<br/>@Bitbyte Corps"
 sidebar-avatar: /img/avatar-hyeongonkim.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
