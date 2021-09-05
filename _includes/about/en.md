@@ -38,7 +38,7 @@
 
 - Participants
 
-  - [https://github.com/kde713]: https://github.com/kde713
+  - [https://github.com/kde713](https://github.com/kde713)
 
 -   TBA
 
@@ -64,9 +64,9 @@ July. 2020
 
 - You can check the detailed project description on
 
-  - [Outline File]: https://drive.google.com/file/d/1Y715n1Wz-Ewi5jloPG3IVj71ovrVbOqA/view?usp=sharing
+  - [Outline File (Korean)](https://drive.google.com/file/d/1Y715n1Wz-Ewi5jloPG3IVj71ovrVbOqA/view?usp=sharing)
 
-  - [Girhub Organization]: https://github.com/Angelhack-LIBI
+  - [Girhub Organization](https://github.com/Angelhack-LIBI)
 
     
 
