@@ -38,7 +38,7 @@
 
 - Participants
 
-  - [https://github.com/kde713](https://github.com/kde713)
+  - [github.com/kde713](https://github.com/kde713)
 
 -   TBA
 
@@ -66,7 +66,7 @@ July. 2020
 
   - [Outline File (Korean)](https://drive.google.com/file/d/1Y715n1Wz-Ewi5jloPG3IVj71ovrVbOqA/view?usp=sharing)
 
-  - [Girhub Organization](https://github.com/Angelhack-LIBI)
+  - [Github Organization](https://github.com/Angelhack-LIBI)
 
     
 
