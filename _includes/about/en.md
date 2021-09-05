@@ -32,9 +32,13 @@
 
 ### Kookmin Bab
 
-> **Team Project with [https://github.com/kde713]: https://github.com/kde713**<br>
+> **Team Project**<br>
 > January. 2020 – Present <br>
 > **Keywords:** TBA
+
+- Participants
+
+  - [https://github.com/kde713]: https://github.com/kde713
 
 -   TBA
 
@@ -55,8 +59,16 @@ Mar. 2016 – Feb. 2022
 
 #### 1st Place, Angelhack Seoul 2020, Common Computer subject
 
-Participated in the Angelhack Hackathon as a PM/Designer and won the Common Computer subject. You can check the detailed project description on [Github]: https://github.com/Angelhack-LIBI & [Outline File]: https://drive.google.com/file/d/1Y715n1Wz-Ewi5jloPG3IVj71ovrVbOqA/view?usp=sharing. <br>
+Participated in the Angelhack Hackathon as a PM/Designer and won the Common Computer subject. <br>
 July. 2020
+
+- You can check the detailed project description on
+
+  - [Outline File]: https://drive.google.com/file/d/1Y715n1Wz-Ewi5jloPG3IVj71ovrVbOqA/view?usp=sharing
+
+  - [Girhub Organization]: https://github.com/Angelhack-LIBI
+
+    
 
 ## Contributions and Invited Talks
 
