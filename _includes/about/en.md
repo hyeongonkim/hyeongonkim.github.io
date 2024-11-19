@@ -55,7 +55,7 @@
 
 #### Kookmin University (Seoul, South Korea)
 
-Senior Year of Computer Science, GPA: 3.88 / 4.0, 4.37 / 4.5 <br>
+Bachelor of Computer Science, GPA: 3.88 / 4.0, 4.37 / 4.5 <br>
 March. 2016 – February. 2022
 
 ## Honors and Awards
