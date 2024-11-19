@@ -3,44 +3,47 @@
 -   [hyeongon.simon@gmail.com](mailto:hyeongon.simon@gmail.com)
 -   [github.com/hyeongonkim](https://github.com/hyeongonkim)
 -   [linkedin.com/in/hyeongon-kim](https://linkedin.com/in/hyeongon-kim-5844b61a6)
--   +82 010-5412-9697
 
 ## Experiences
+
+### GYEONGGI-DO
+
+> **Public Servent** <br>
+> August. 2023 ~
+
+
+### Grand Hyatt Incheon
+
+> **Crew Shuttle Driver** <br>
+> July. 2022 ~ July. 2023
+
 
 ### Bitbyte.Corp (PlayKeyboard)
 
 > **Android Developer** <br>
-> July. 2020 ~ Present <br>
-> **Keywords:** TBA
+> July. 2020 ~ February. 2022
 
-- TBA
 
 ### Handys
 
-> **Android Developer** <br>
-> **Keywords:** TBA
+> **Android Developer**
 
--   TBA
 
 ### Custom
 
 > **Personal Project** <br>
-> January. 2020 – Present <br>
-> **Keywords:** TBA
+> January. 2020 – End of service
 
--   TBA
 
 ### Kookmin Bab
 
 > **Team Project**<br>
-> January. 2020 – Present <br>
-> **Keywords:** TBA
+> January. 2020 – End of service
 
 - Participants
 
   - [github.com/kde713](https://github.com/kde713)
 
--   TBA
 
 ## Technical Skills
 
@@ -53,7 +56,7 @@
 #### Kookmin University (Seoul, South Korea)
 
 Senior Year of Computer Science, GPA: 3.88 / 4.0, 4.37 / 4.5 <br>
-Mar. 2016 – Feb. 2022
+March. 2016 – February. 2022
 
 ## Honors and Awards
 
